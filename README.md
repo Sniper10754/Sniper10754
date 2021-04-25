@@ -1,7 +1,7 @@
 # Sniper10754
 
 ###### Hello i am Sniper10754 (You can call me Sniper or what else) 
-###### i am intrusted in [Java](Java) and [Python](python) (I masterized Python)
+###### i am intrusted in [Java] (www.java.com) and [Python] (www.python.org) (I masterized Python)
 
 ## My current projects
 
