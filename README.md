@@ -5,6 +5,6 @@
 
 ## My current projects
 
-##### JScanner: a fast and versatle TCP port scanner. (Working on)
+##### JScanner: a fast and versatle TCP port scanner. (**Working on**)
 ##### TitlePrinter: I think this is more an utility.
-##### SkyHTTP: a potential web framework, i dont know much about HTTP Server, But i wanted to try. (Dont released yet)
+##### SkyHTTP: a potential web framework, i dont know much about HTTP Server, But i wanted to try. (**Dont released yet**)
