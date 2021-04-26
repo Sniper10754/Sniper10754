@@ -1,7 +1,8 @@
 # *Sniper10754*
+<img src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mv0xbzAFzi1rulxblo1_500.gif" width=200>
 
 >Hello I am Sniper10754 (You can call me Sniper or what else)
->I am entrusted in [Java](https://www.java.com) and [Python](https://www.python.org) (Mastered Python) <img src=https://thumbs.gfycat.com/CheerySeparateGoldeneye-mobile.mp4>
+>I am entrusted in [Java](https://www.java.com) and [Python](https://www.python.org) (Mastered Python) 
 
 >Let's keep in touch: Discord: Sniper10754™#2772
 
