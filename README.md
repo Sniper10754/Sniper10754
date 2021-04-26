@@ -15,4 +15,4 @@
 
 ## My stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sniper10754)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sniper10754&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
