@@ -12,3 +12,7 @@
 >[TitlePrinter](https://github.com/Sniper10754/TitlePrinter): I think this is more an utility.
 
 >HeavenShell: my personal shell! (**Working on**)
+
+## My stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sniper10754)](https://github.com/anuraghazra/github-readme-stats)
