@@ -11,7 +11,7 @@
 
 >[TitlePrinter](https://github.com/Sniper10754/TitlePrinter): I think this is more a utility.
 
->HeavenShell: my personal shell! (**Working on**)
+>[HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
 
 ## *My stats*
 
