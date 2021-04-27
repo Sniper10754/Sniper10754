@@ -3,7 +3,7 @@
 >Hello I am Sniper10754 (You can call me Sniper or what else)
 >I am entrusted in [Java](https://www.java.com) and [Python](https://www.python.org) (Mastered Python) 
 
-## Let's keep in touch
+## *Let's keep in touch*
 > Discord: Sniper10754™#2772
 
 ## *My current projects*
