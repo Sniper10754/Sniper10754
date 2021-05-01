@@ -30,7 +30,3 @@ Discord Tag: Sniper10754™#2772
 
 [HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
 <br><br>
-
-## My stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sniper10754&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
