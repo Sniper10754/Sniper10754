@@ -1,4 +1,7 @@
-## *My Skills and Experience*
+## Hi there!
+Hello, i'm Sniper and i come from Italy, 
+
+## *My Skills and Experience
 
 >### JavaScript, HTML and CSS
 > #### - Basic level
@@ -12,10 +15,10 @@
 > #### - Intermediate Level
 >My favorite language, i am learning it
 
-## *Let's keep in touch*
+## Let's keep in touch
 > Discord: Sniper10754™#2772
 
-## *My current projects*
+## My current projects
 
 >[JScanner](https://github.com/Sniper10754/JScanner) a fast and versatile TCP port scanner. (**Working on**)
 
@@ -23,7 +26,8 @@
 
 >[HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
 
-## *My stats*
+## My stats
+
 
 >[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sniper10754&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
