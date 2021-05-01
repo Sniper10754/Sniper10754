@@ -20,6 +20,7 @@ Hello, i'm Sniper and i come from Italy.
 
 ## Let's keep in touch
 Discord Tag: Sniper10754™#2772
+<br><br>
 
 ## My current projects
 
@@ -28,6 +29,7 @@ Discord Tag: Sniper10754™#2772
 [TitlePrinter](https://github.com/Sniper10754/TitlePrinter): I think this is more a utility.
 
 [HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
+<br><br>
 
 ## My stats
 
