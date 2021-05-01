@@ -1,7 +1,7 @@
 ## Hi there!
-Hello, i'm Sniper and i come from Italy, 
+Hello, i'm Sniper and i come from Italy.
 
-## *My Skills and Experience
+## My Skills and Experience
 
 >### JavaScript, HTML and CSS
 > #### - Basic level
