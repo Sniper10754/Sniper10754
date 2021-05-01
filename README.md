@@ -3,15 +3,15 @@ Hello, i'm Sniper and i come from Italy.
 
 ## My Skills and Experience
 
-- #### JavaScript, HTML and CSS
+- #### 📜JavaScript, HTML and CSS
   Basic level <br>
   The necessary.
 
-- #### Python
+- #### 🐍Python
   Intermediate level <br>
   Masterized the main language, no general Frameworks/Libraries learned.  
 
-- #### Java
+- #### ☕Java
   Intermediate Level <br>
   My favorite language, i am learning it
 
