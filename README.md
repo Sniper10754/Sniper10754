@@ -20,7 +20,6 @@ Hello, i'm Sniper and i come from Italy.
 
 ## Let's keep in touch
 Discord Tag: Sniper10754™#2772
-<br><br>
 
 ## My current projects
 
