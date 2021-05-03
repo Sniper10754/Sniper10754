@@ -4,17 +4,19 @@ Hello, i'm Sniper and i come from Italy.
 ## My Skills and Experience
 
 - #### 📜JavaScript, HTML and CSS
-  Basic level <br>
-  The necessary.
+  [ ] Masterized the main language<br>
+  [ ] Frameworks/Libraries learned
 
 - #### 🐍Python
   Intermediate level <br>
-  Masterized the main language, no general Frameworks/Libraries learned.  
+  [x] Masterized the main language<br>
+  [ ] Frameworks/Libraries learned
 
 - #### ☕Java
   Intermediate Level <br>
-  My favorite language, i am learning it
-
+  [x] Learning<br>
+  [ ] Frameworks/Libraries learned
+  
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
