@@ -9,12 +9,12 @@ Hello, i'm Sniper and i come from Italy.
 
 - #### 🐍Python
   Intermediate level <br>
-  [x] Masterized the main language<br>
+  [X] Masterized the main language<br>
   [ ] Frameworks/Libraries learned
 
 - #### ☕Java
   Intermediate Level <br>
-  [x] Learning<br>
+  [X] Learning<br>
   [ ] Frameworks/Libraries learned
   
 <br><br>
