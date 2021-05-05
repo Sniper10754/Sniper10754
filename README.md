@@ -17,6 +17,7 @@ Hello, i'm Sniper and i come from Italy.
 - #### ☕Java
   Intermediate Level <br>
   - [x] Learning<br>
+  - [ ] Masterized the main language<br>
   - [ ] Frameworks/Libraries learned
   
 <br><br>
