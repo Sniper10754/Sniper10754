@@ -1,6 +1,12 @@
 ## Hi there!
 Hello, i'm Sniper and i come from Italy.
 
+## My Preferences
+  IDEs:
+
+- JetBrains's Intellij Community
+- Visual Studio Code
+
 ## My Skills and Experience
 
 - #### 📜JavaScript, HTML and CSS
