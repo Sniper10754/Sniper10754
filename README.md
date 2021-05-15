@@ -35,8 +35,5 @@ Discord Tag: Sniper10754™#2772
 
 ## My current projects
 
-- [JScanner](https://github.com/Sniper10754/JScanner) a fast and versatile TCP port scanner. (**Working on**)
-
-- [TitlePrinter](https://github.com/Sniper10754/TitlePrinter): I think this is more a utility.
-
+- [JVulnerability](https://github.com/Sniper10754/Java-Vulnerability) a fast and versatile TCP port scanner. (**Working on**)
 - [HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
