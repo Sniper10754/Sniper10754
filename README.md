@@ -15,14 +15,12 @@ Hello, i'm Sniper and i come from Italy.
   - [ ] Frameworks/Libraries learned
 
 - #### 🐍Python
-  Intermediate level <br>
   - [ ] Learning<br>
   - [x] Masterized the main language<br>
   - [x] Frameworks/Libraries learned
     - Flask
   
 - #### ☕Java
-  Intermediate Level <br>
   - [x] Learning<br>
   - [ ] Masterized the main language<br>
   - [ ] Frameworks/Libraries learned
