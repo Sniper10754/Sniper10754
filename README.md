@@ -9,11 +9,6 @@ Hello, i'm Sniper and i come from Italy.
 
 ## My Skills and Experience
 
-- #### 📜JavaScript, HTML and CSS
-  - [x] Learning<br>
-  - [ ] Masterized the main language<br>
-  - [ ] Frameworks/Libraries learned
-
 - #### 🐍Python
   - [ ] Learning<br>
   - [x] Masterized the main language<br>
