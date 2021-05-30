@@ -1,32 +1,40 @@
-## Hi there!
-Hello, i'm Sniper and i come from Italy.
+<h2 align="center"> Hello! </h2>
+<div align="center">
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+from+Sniper!;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+</div>
 
-## My Preferences
+<div align="center">
+<h2 align="center">
   IDEs:
-
-- JetBrains's Intellij Community
-- Visual Studio Code
-
-## My Skills and Experience
-
-- #### 🐍Python
-  - [ ] Learning<br>
-  - [x] Masterized the main language<br>
-  - [x] Frameworks/Libraries learned
-    - Flask
   
-- #### ☕Java
-  - [x] Learning<br>
-  - [ ] Masterized the main language<br>
-  - [ ] Frameworks/Libraries learned
+  <br><br>
+  <code>Visual studio code</code>
+  <br><br>
+  <code>IntelliJ Idea Community</code>
+</h2>
+
+<h2 align="center"> My Skills and Experience </h2>
+<p align="center">
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&theme=dark&show_icons=true)]"> </img>
+</p>
+
+<h2 align="center"> Socials </h2>
+<p align="center"> Discord Tag: Sniper10754™#2772 </p>
+
+<br>
+<h2 align="center"> My projects </h2>
+<div align="center">
   
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [JVulnerability](https://github.com/Sniper10754/Java-Vulnerability) a fast and versatile TCP port scanner. (**Working on**) <br>
+  [HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
 
-## Let's keep in touch
-Discord Tag: Sniper10754™#2772
-
-## My current projects
-
-- [JVulnerability](https://github.com/Sniper10754/Java-Vulnerability) a fast and versatile TCP port scanner. (**Working on**)
-- [HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
+</div>
