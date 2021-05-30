@@ -29,11 +29,3 @@
 <h2 align="center"> Socials </h2>
 <p align="center"> Discord Tag: Sniper10754™#2772 </p>
 
-<br>
-<h2 align="center"> My projects </h2>
-<div align="center">
-  
-  [JVulnerability](https://github.com/Sniper10754/Java-Vulnerability) a fast and versatile TCP port scanner. (**Working on**) <br>
-  [HeavenShell](https://github.com/Sniper10754/HeavenShell): my personal shell! (**Working on**)
-
-</div>
