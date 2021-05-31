@@ -1,8 +1,8 @@
 <h2 align="center"> Hello! </h2>
 <div align="center">
   <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+from+Sniper!;Nice+to+meet+you!&center=true&size=30">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Hello+from+Sniper!;Nice+to+meet+you!">
   </a>
 </h1>
 </div>
@@ -10,10 +10,10 @@
 <div align="center">
   <h2 align="center" class="blue">
     IDEs:
-
-    Visual studio code
-
-    IntelliJ Idea Community
+    <br>
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Intellij+Community;Visual+Studio+code"></img>
+    
   </h2>
 </div>
 <h2 align="center"> My Skills and Experience </h2>
@@ -28,5 +28,7 @@
 </p>
 
 <h2 align="center"> Socials </h2>
-<p align="center"> Discord Tag: Sniper10754™#2772 </p>
+<p align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=24&center=true&vCenter=true&lines=Discord%3A+Sniper10754.java%232772"></img>
+</p>
 
