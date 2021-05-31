@@ -24,7 +24,7 @@
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&theme=react&border_color=61dafb&hide_border=true)]"> </img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&theme=react&border_color=61dafb&hide_border=true"> </img>
 </p>
 
 <h2 align="center"> Socials </h2>
