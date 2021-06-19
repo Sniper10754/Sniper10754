@@ -34,6 +34,6 @@
 
 <h2 align="center"> Socials </h2>
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=24&center=true&vCenter=true&lines=Discord%3A+Sniper10754.java%232772"></img>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=24&center=true&vCenter=true&lines=Discord%3A+S n i p e r%232772"></img>
 </p>
 
