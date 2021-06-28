@@ -29,7 +29,10 @@
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&theme=react&border_color=61dafb&hide_border=true"> </img>
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&layout=compact">
+  
 </p>
 
 <h2 align="center"> Socials </h2>
