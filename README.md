@@ -31,7 +31,7 @@
   <br><br>
   
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sniper10754&layout=compact&bg_color=#232323">
   
 </p>
 
