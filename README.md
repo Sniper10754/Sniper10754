@@ -40,14 +40,15 @@
 <h2 align="center"> Socials </h2>
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=24&center=true&vCenter=true&lines=Discord%3A+S%20n%20i%20p%20e%20r%232772"></img>
-  <br>
-  Collab with
-  <div align="center"> 
   
-  [Unity](https://github.com/UnityCoderByte/)
-  
-  [Revel](https://github.com/Dark_Revel431/)
-
   <div>
 </p>
 
+<h2 align="center"> Collabs </h2>
+<p align="center">   <div align="center">
+  
+  [Unity](https://github.com/UnityCoderByte/)
+      
+  [Revel](https://github.com/Dark_Revel431/)
+  
+</p>
