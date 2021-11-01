@@ -1,5 +1,6 @@
 <h2 align="center"> Hello! </h2>
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sniper10754&label=Profile%20views&color=000000&style=plastic" alt="Sniper10754"/>
   <h1 align="center">
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Hello+from+Sniper!;Nice+to+meet+you!">
