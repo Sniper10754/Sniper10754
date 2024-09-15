@@ -1,4 +1,8 @@
-## Hi there 👋
+<picture>
+  <img align="right" src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+Hi there 👋 im sniper and i create things for fun
 
 - 🔭 I’m currently working on my **catalyst** programming language and *other projects*...
 - 🌱 I’m currently learning *sysadmin* and *electronics skills*
